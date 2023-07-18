@@ -12,3 +12,8 @@ Added 6 headers from 1 to 6
 ```
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] make a brew
+- [ ] open GitHub
+- [ ] Learn lots
+- [ ] make another brew
